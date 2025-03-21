@@ -1,0 +1,9 @@
+Connector/NET 9.2 Release Notes
+------------------------------------
+Welcome to the release notes for Connector/NET 9.1
+
+What's new in 9.2
+--------------------
+
+Connector/NET adds support for .NET 9 and EF Core 9 GA versions.
+Connector/NET removes support for .NET6 and EFCore 6.

@@ -1,0 +1,5 @@
+GDQuest -> https://opengameart.org/content/cartoon-mobile-rounded-icon-buttons
+GUI FILES -> https://opengameart.org/content/mobile-game-gui-buttons
+Last Guardians -> https://opengameart.org/content/700-sprites
+Items.png (Coins) -> https://opengameart.org/content/items-and-elements
+Chest -> https://opengameart.org/content/modified-32x32-treasure-chest
